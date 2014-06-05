@@ -1,4 +1,4 @@
-git-fundamentals
+git-fundamentals (Jennifer's Version)
 ================
 
 A starting point for discovering the wonderful world of Git, GitHub, and Git
